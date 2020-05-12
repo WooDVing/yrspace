@@ -6,7 +6,7 @@
         <meta name="description" content="Лучший в Волгограде киберспортивный компьютерный клуб. Самые популярные компьютерные игры. Профессиональное игровое оборудование. Круглосуточно!">
         <meta name="keywords" content="волгоград, компьютерный клуб, киберспорт, развлечения, отдых, world of tanks, dota 2, warface, playstation 4, компьютерные игры, розыгрыш">
         <meta name="theme-color" content="#1f3855">
-        <title>YRPACE - Компьютерный клуб</title>
+        <title>YRSPACE - Компьютерный клуб</title>
         <!-- Загрушка шрифта Roboto -->
         <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <!-- Load css styles -->
@@ -21,6 +21,7 @@
         <link rel="stylesheet" type="text/css" href="css/jquery.bxslider.css" />
         <link rel="stylesheet" type="text/css" href="css/animate.css" />
         <!-- Fav and touch icons -->
+        <link rel="shortcut icon" href="/images/favicon.ico" type="image/png">
         <link rel="apple-touch-icon" sizes="180x180" href="images/ico/apple-touch-icon.png">
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144.png">
         <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114.png">
@@ -171,9 +172,9 @@
                             <div class="circle-border zoom-in">
                                 <img class="img-circle" src="images/service/Service11.png" alt="Периферия">
                             </div>
-                            <h3><u>Периферия в капсулах</u></h3>
+                            <h3><u>Периферия PRO PC</u></h3>
                             <p>Мышки Bloody TL8-Terminator<br><br>Клавиатуры Bloody B800<br><br>Гарнитуры Bloody M425</p><br><br>
-                            <h3><u>Периферия в игровых залах</u></h3>
+                            <h3><u>Периферия PC</u></h3>
                             <p>Мышки Bloody A91, V7, V8<br><br>Клавиатуры Bloody B314<br><br>Гарнитуры Bloody G300</p><br>
                         </div>
                     </div>
@@ -182,7 +183,7 @@
                             <div class="circle-border zoom-in">
                                 <img class="img-circle" src="images/service/Service21.png" alt="Компьютеры" />
                             </div>
-									<h3><u>Киберспортивные капсулы</u></h3>
+									<h3><u>PRO PC</u></h3>
 									<p>AOC Gaming G2590FX 24.5 144Hz,<br>
 									AMD Ryzen 5 3600 4.2GHz,<br>
 									AsRock B450 Fatality,<br>
@@ -190,7 +191,7 @@
 									HyperX 8GB 3000 MHz,<br>
 									<u>Игровые кресла ZET Force 1000</u>.</p>
 									<br><br><br>
-									<h3><u>Игровые залы</u></h3>
+									<h3><u>PC</u></h3>
 									<p>LG E2242C 22 60Hz,<br>
 									AMD FX8320 X8 4.2GHz,<br>
 									Palit GTX 750, RAM 16GB.</p>
@@ -230,7 +231,7 @@
                             <h3>Евгений</h3>
                             <ul class="social">
                                 <li>
-                                    <a href="http://vk.com/skbars" target="_blank">
+                                    <a href="https://vk.com/expres_s" target="_blank">
                                         <span><img src="images/media/vk.png" width="35" height="35"></span>
                                     </a>
                                 </li>
@@ -247,7 +248,7 @@
                             <h3>Алексей</h3>
                             <ul class="social">
                                 <li>
-                                    <a href="https://vk.com/id151152220" target="_blank">
+                                    <a href="https://vk.com/sgl_naz" target="_blank">
                                         <span><img src="images/media/vk.png" width="35" height="35"></span>
                                     </a>
                                 </li>
@@ -264,7 +265,7 @@
                             <h3>Роман</h3>
                             <ul class="social">
                                 <li>
-                                    <a href="https://vk.com/id108179956">
+                                    <a href="https://vk.com/gusstreamer">
                                         <span><img src="images/media/vk.png" width="35" height="35"></span>
                                     </a>
                                 </li>
@@ -286,12 +287,6 @@
             </div>
         </div>
         <!-- О нас конец -->
-        <div class="section primary-section">
-            <div class="triangle"></div>
-            <div class="container centered">
-                <p class=""><strong>Признание киберспорта в России</strong><br><br>7 июня 2016 года был опубликован приказ Министерства Спорта о включении компьютерного спорта в реестр официальных видов спорта Российской Федерации.</p>
-            </div>
-        </div>
 		<!-- Клиенты начало -->
         <div id="clients">
             <div class="section secondary-section">
@@ -317,11 +312,11 @@
                         </div>
                         <div class="span4">
                             <div class="testimonial">
-                                <p>Хорошие компы, классная графика, классная атмосфера, удобное место расположение, про соньку вообще молчу лучше сами посмотрите) Так же мне понравилось то что у них есть свои аккаунты к близард, стиму, ориджин. Хорошая администрация всегда помогут если возникнут проблемы.</p>
+                                <p>Все классно, не раз уже ходил, администрация отзывчивая, поможет всегда, спасибо за рокет лигу) только поменьше музыку и света, пожалуйста.</p>
                                 <div class="whopic">
                                     <div class="arrow"></div>
                                     <img src="images/clients/Client2.png" class="centered" alt="client 2">
-                                    <strong>Михаил Крылов
+                                    <strong>Вадим Дробышев
                                         <small>Клиент</small>
                                     </strong>
                                 </div>
@@ -329,11 +324,11 @@
                         </div>
                         <div class="span4">
                             <div class="testimonial">
-                                <p>Хорошее место,красивый уникальный дизайн,хорошие администраторы и мощные пк,удобные игровые комнаты</p>
+                                <p>Первый раз был у вас, понравилось очень, был в других кибер аренах, если сравнить то здесь лучше, атмосфера шикарная, советую всем суда приходить, ну проблемы в компе были, но не значительные, ставлю 9,5/10.</p>
                                 <div class="whopic">
                                     <div class="arrow"></div>
                                     <img src="images/clients/Client3.png" class="centered" alt="client 3">
-                                    <strong>Илья Хапугин
+                                    <strong>Вова Мерза
                                         <small>Клиенты</small>
                                     </strong>
                                 </div>
@@ -359,9 +354,9 @@
                     <div class="span4 price-column">
                         <h3>Stream Room</h3>
                         <ul class="list">
-                            <li class="price">100 р/час</li>
+                            <li class="price">200 р/час</li>
                             <li class="price">Ночь 600р</li>
-                            <li><strong>Top Bloody</strong> периферия</li>
+                            <li><strong>HyperX</strong> периферия</li>
                             <li><strong>60</strong> Mb/s</li>
                             <li><strong>Кресла</strong> ZET Force 1000</li>
                         </ul>
@@ -371,19 +366,19 @@
                         <ul class="list">
                             <li class="price">80 р/час</li>
                             <li class="price">Ночь 350р</li>
-                            <li><strong>Bloody</strong> периферия</li>
+                            <li><strong>HyperX</strong> периферия</li>
                             <li><strong>60</strong> Mb/s</li>
-                            <li><strong>Стулья</strong> ZET Force 1000</li>
+                            <li><strong>Кресла</strong> ZET Force 1000</li>
                         </ul>
                     </div>
                     <div class="span4 price-column">
                         <h3>Standart PC</h3>
                         <ul class="list">
-                            <li class="price">60 р/час</li>
+                            <li class="price">70 р/час</li>
                             <li class="price">Ночь 250р</li>
                             <li><strong>Bloody</strong> периферия</li>
                             <li><strong>60</strong> Mb/s</li>
-                            <li><strong>Стулья</strong> ZET Force 1000</li>
+                            <li><strong>Кресла</strong> ZET Force 1000</li>
                         </ul>
                     </div>
                 </div>
@@ -429,17 +424,17 @@
                     <div class="row-fluid centered">
                         <ul class="social">
                             <li>
-                                <a href="https://vk.com/cybergame_club" target="_blank">
+                                <a href="https://vk.com/yrspace" target="_blank">
                                     <span><img src="images/media/vk.png" width="50" height="50" alt="ВКонтакте"></span>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com/cybergame_club/" target="_blank">
+                                <a href="https://www.instagram.com/yrspace_vlg/" target="_blank">
                                     <span><img src="images/media/instagram.png" width="50" height="50" alt="Instagram"></span>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitch.tv/cybergameclub/" target="_blank">
+                                <a href="https://www.twitch.tv/yrspace_esports" target="_blank">
                                     <span><img src="images/media/twitch.png" width="50" height="50" alt="Twitch"></span>
                                 </a>
                             </li>
@@ -452,7 +447,7 @@
         <!-- ScrollUp начало -->
         <div class="scrollup">
             <a href="#">
-                <i class="icon-up-open"></i>
+                <img src="images/up-arrow.svg">
             </a>
         </div>
         <!-- ScrollUp конец -->
