@@ -402,10 +402,9 @@
             	<div class="triangle"></div>
                 <div class="container">
                     <div class="span9 center contact-info">
-                        <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJb7oA_0jLGkERxVm22nJf9ts&key=..." width="80%" height="0" frameborder="0"></iframe>
-                        <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJb7oA_0jLGkERxVm22nJf9ts&key=..." width="80%" height="500" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.1199840757195!2d44.53363931570765!3d48.72229897927442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x411acb48ff00ba6f%3A0xdbf65f72dab659c5!2sYRSPACE%20Esports!5e0!3m2!1sru!2sru!4v1589458490084!5m2!1sru!2sru" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>   
                         <p>г. Волгоград, ул. 7-й Гвардейской, д. 11Б</p>
-                        <p class="info-mail">admin@cybergame.club</p>
+                        <p class="info-mail">yrspace@yandex.ru</p>
                         <p>8 961 077 77 75</p>
                     </div>
                 </div>
