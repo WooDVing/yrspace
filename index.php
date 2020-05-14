@@ -172,10 +172,14 @@
                             <div class="circle-border zoom-in">
                                 <img class="img-circle" src="images/service/Service11.png" alt="Периферия">
                             </div>
-                            <h3><u>Периферия PRO PC</u></h3>
-                            <p>Мышь: HyperX Pulsefire PRO<br>Клавиатура: HyperX Alloy FPS PRO (Cherry MX Red )<br>Гарнитура: HyperX Cloud Stinger<br>Монитор: AOC 27G2U/BK (27" - 144 hz)<br></p><br>
-                            <h3><u>Периферия Standart PC</u></h3>
-                            <p>Мышь: Razer DeathAdder / Logitech G102<br>Клавиатура: Razer Cynosa Pro / HyperX Alloy Core RGB<br>Гарнитура: Bloody G300<br>Монитор: BenQ Zowie XL2411P (24" - 144 hz)<br></p><br>
+                            <h3><u>Standart PC</u></h3>
+                           			<p>Процессор: Intel Core i5 8400<br>
+                                       Видеокарта: MSI GeForce GTX 1060<br>
+                                       Оперативная память: Corsair Vengeance LPX DDR4 - 8 GB (2х4GB)<br>
+                                       Монитор: BenQ Zowie XL2411P (24" - 144 hz)<br>
+                                       Гарнитура: Bloody G300<br><br>
+                                       Клавиатура: Razer Cynosa Pro / HyperX Alloy Core RGB<br>
+                                       Мышь: Razer DeathAdder / Logitech G102<br><br></p>
                         </div>
                     </div>
                     <div class="span4">
@@ -183,15 +187,14 @@
                             <div class="circle-border zoom-in">
                                 <img class="img-circle" src="images/service/1.jpg" alt="Компьютеры" />
                             </div>
-									<h3><u>PRO PC</u></h3>
-									<p>Процессор: Intel Core i7 8700<br>
-									Видеокарта: ASUS GeForce RTX 2080<br>
-									Оперативная память: HyperX Predator DDR4 - 16GB (2x8GB)<br>
-									<br><br><br>
-                                    <h3><u>Standart PC</u></h3>
-                                    <p>Процессор: Intel Core i5 8400<br>
-                                    Видеокарта: MSI GeForce GTX 1060<br>
-                                    Оперативная память: Corsair Vengeance LPX DDR4 - 8 GB (2х4GB)</p>
+                                    <h3><u>PRO PC</u></h3>
+                           			<p>Процессор: Intel Core i7 8700<br>
+                                       Видеокарта: ASUS GeForce RTX 2080<br>
+                                       Оперативная память: HyperX Predator DDR4 - 16GB (2x8GB)<br>
+                                       Монитор: BenQ Zowie XL2411P (24" - 144 hz)<br>
+                                       Гарнитура: HyperX Cloud Stinger<br><br>
+                                       Клавиатура: HyperX Alloy FPS PRO (Cherry MX Red )<br>
+                                       Мышь: HyperX Pulsefire PRO<br><br></p>
                         </div>
                     </div>
                     <div class="span4">
