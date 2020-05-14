@@ -174,7 +174,7 @@
                             </div>
                             <h3><u>Периферия PRO PC</u></h3>
                             <p>Мышь: HyperX Pulsefire PRO<br>Клавиатура: HyperX Alloy FPS PRO (Cherry MX Red )<br>Гарнитура: HyperX Cloud Stinger<br>Монитор: AOC 27G2U/BK (27" - 144 hz)<br></p><br>
-                            <h3><u>Периферия PC</u></h3>
+                            <h3><u>Периферия Standart PC</u></h3>
                             <p>Мышь: Razer DeathAdder / Logitech G102<br>Клавиатура: Razer Cynosa Pro / HyperX Alloy Core RGB<br>Гарнитура: Bloody G300<br>Монитор: BenQ Zowie XL2411P (24" - 144 hz)<br></p><br>
                         </div>
                     </div>
@@ -188,7 +188,7 @@
 									Видеокарта: ASUS GeForce RTX 2080<br>
 									Оперативная память: HyperX Predator DDR4 - 16GB (2x8GB)<br>
 									<br><br><br>
-                                    <h3><u>PC</u></h3>
+                                    <h3><u>Standart PC</u></h3>
                                     <p>Процессор: Intel Core i5 8400<br>
                                     Видеокарта: MSI GeForce GTX 1060<br>
                                     Оперативная память: Corsair Vengeance LPX DDR4 - 8 GB (2х4GB)</p>
@@ -361,7 +361,7 @@
                     <div class="span4 price-column">
                         <h3>PRO PC</h3>
                         <ul class="list">
-                            <li class="price">80 р/час</li>
+                            <li class="price">90 р/час</li>
                             <li class="price">Ночь 350р</li>
                             <li><strong>HyperX</strong> периферия</li>
                             <li><strong>60</strong> Mb/s</li>
