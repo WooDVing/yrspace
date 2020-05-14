@@ -173,28 +173,25 @@
                                 <img class="img-circle" src="images/service/Service11.png" alt="Периферия">
                             </div>
                             <h3><u>Периферия PRO PC</u></h3>
-                            <p>Мышки Bloody TL8-Terminator<br><br>Клавиатуры Bloody B800<br><br>Гарнитуры Bloody M425</p><br><br>
+                            <p>Мышь: HyperX Pulsefire PRO<br>Клавиатура: HyperX Alloy FPS PRO (Cherry MX Red )<br>Гарнитура: HyperX Cloud Stinger<br>Монитор: AOC 27G2U/BK (27" - 144 hz)<br></p><br>
                             <h3><u>Периферия PC</u></h3>
-                            <p>Мышки Bloody A91, V7, V8<br><br>Клавиатуры Bloody B314<br><br>Гарнитуры Bloody G300</p><br>
+                            <p>Мышь: Razer DeathAdder / Logitech G102<br>Клавиатура: Razer Cynosa Pro / HyperX Alloy Core RGB<br>Гарнитура: Bloody G300<br>Монитор: BenQ Zowie XL2411P (24" - 144 hz)<br></p><br>
                         </div>
                     </div>
                     <div class="span4">
                         <div class="centered service">
                             <div class="circle-border zoom-in">
-                                <img class="img-circle" src="images/service/Service21.png" alt="Компьютеры" />
+                                <img class="img-circle" src="images/service/1.jpg" alt="Компьютеры" />
                             </div>
 									<h3><u>PRO PC</u></h3>
-									<p>AOC Gaming G2590FX 24.5 144Hz,<br>
-									AMD Ryzen 5 3600 4.2GHz,<br>
-									AsRock B450 Fatality,<br>
-									Palit GTX 1060 6GB,<br>
-									HyperX 8GB 3000 MHz,<br>
-									<u>Игровые кресла ZET Force 1000</u>.</p>
+									<p>Процессор: Intel Core i7 8700<br>
+									Видеокарта: ASUS GeForce RTX 2080<br>
+									Оперативная память: HyperX Predator DDR4 - 16GB (2x8GB)<br>
 									<br><br><br>
-									<h3><u>PC</u></h3>
-									<p>LG E2242C 22 60Hz,<br>
-									AMD FX8320 X8 4.2GHz,<br>
-									Palit GTX 750, RAM 16GB.</p>
+                                    <h3><u>PC</u></h3>
+                                    <p>Процессор: Intel Core i5 8400<br>
+                                    Видеокарта: MSI GeForce GTX 1060<br>
+                                    Оперативная память: Corsair Vengeance LPX DDR4 - 8 GB (2х4GB)</p>
                         </div>
                     </div>
                     <div class="span4">
@@ -203,13 +200,13 @@
                                 <img class="img-circle" src="images/service/Service32.png" alt="Кресла">
                             </div>
                             <h3><u>Студия</u></h3>
-                           			<p>AOC Gaming G2590FX 24.5 144Hz,<br>
-									Intel i7-8700k 4.7GHz,<br>
-									ASUS ROG STRIX Z390-H GAMING,<br>
-									MSI GTX 1080 TI 11GB,<br>
-									Viper Elite 32GB 3200Hz,<br><br>
-									THERMALTAKE Core V51 TG,<br><br>
-									<u>Игровые кресла ZET Force 2000</u>.</p>
+                           			<p>Процессор: Intel Core i7 8700<br>
+                                       Видеокарта: ASUS GeForce RTX 2080<br>
+                                       Оперативная память: HyperX Predator DDR4 - 16GB (2x8GB)<br>
+                                       Мониторы: 1) BenQ Zowie XL2411P (144 hz) - 2) BenQ G2220 HDA (60 hz)<br>
+                                       Гарнитура: HyperX Cloud Stinger<br><br>
+                                       Клавиатура: HyperX Alloy FPS PRO (Cherry MX Red )<br>
+                                       Мышь: HyperX Pulsefire PRO<br><br></p>
                         </div>
                     </div>
                 </div>
@@ -354,7 +351,7 @@
                     <div class="span4 price-column">
                         <h3>Stream Room</h3>
                         <ul class="list">
-                            <li class="price">200 р/час</li>
+                            <li class="price">100 р/час</li>
                             <li class="price">Ночь 600р</li>
                             <li><strong>HyperX</strong> периферия</li>
                             <li><strong>60</strong> Mb/s</li>
