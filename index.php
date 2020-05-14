@@ -185,7 +185,7 @@
                     <div class="span4">
                         <div class="centered service">
                             <div class="circle-border zoom-in">
-                                <img class="img-circle" src="images/service/1.jpg" alt="Компьютеры" />
+                                <img class="img-circle" src="images/service/Service2.png" alt="Компьютеры" />
                             </div>
                                     <h3><u>PRO PC</u></h3>
                            			<p>Процессор: Intel Core i7 8700<br>
