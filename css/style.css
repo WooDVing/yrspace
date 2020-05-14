@@ -70,8 +70,8 @@ p {
     padding: 0 !important;
 }
 .navbar .brand img {
-    width:80px;
-    height:70px;
+    width:70px;
+    height:80px;
 }
 .navbar .nav > li > a {
     text-transform:uppercase;
