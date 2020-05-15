@@ -73,6 +73,20 @@ p {
     width:70px;
     height:80px;
 }
+.button_center {
+    display: inline-flex;
+    align-items: center;
+    color: white;
+    text-transform: uppercase;
+    margin-left: -1px;
+    margin-right: -1px;
+    background-color: #d31664;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0 15px;
+    caret-color: #a52557;
+}
 .navbar .nav > li > a {
     text-transform:uppercase;
     line-height: auto;

@@ -69,6 +69,7 @@
             </div>
         </div>
         <!-- Главная -->
+        
         <div id="home">
             <!-- Начало cSlider -->
             <div id="da-slider" class="da-slider">
@@ -82,6 +83,9 @@
                         <h2 class="fittext2">Добро пожаловать</h2>
                         <h4>в Киберспортивный клуб!</h4>
                         <p>У нас вы сможете окунуться в мир Киберспорта.<br>Почувствовать себя профессиональным игроком.<br>Собрать свою команду и принять участие в соревнованиях.</p>
+                        <div id="rent-form" class="button">
+                            <div class="button_center">Арендовать</div>
+                        </div>
                         <div class="da-img">
                             <img src="images/slider/Slider01.png" width="320" alt="">
                         </div>
@@ -371,7 +375,7 @@
         <!-- Контакты начало -->
         <div id="contact" class="contact">
             <div class="section primary-section">
-            	<div class="triangle"></div>
+                <div class="triangle"></div>
                 <div class="container">
                     <div class="span9 center contact-info">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.1199840757195!2d44.53363931570765!3d48.72229897927442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x411acb48ff00ba6f%3A0xdbf65f72dab659c5!2sYRSPACE%20Esports!5e0!3m2!1sru!2sru!4v1589458490084!5m2!1sru!2sru" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>   
