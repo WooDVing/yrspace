@@ -42,34 +42,6 @@
 		</script>
     </head>
     <body>
-	    <!-- Yandex.Metrika counter -->
-	    <script type="text/javascript" >
-	        (function (d, w, c) {
-	            (w[c] = w[c] || []).push(function() {
-	                try {
-	                    w.yaCounter47649751 = new Ya.Metrika({
-	                        id:47649751,
-	                        clickmap:true,
-	                        trackLinks:true,
-	                        accurateTrackBounce:true
-	                    });
-	                } catch(e) { }
-	            });
-
-	            var n = d.getElementsByTagName("script")[0],
-	                s = d.createElement("script"),
-	                f = function () { n.parentNode.insertBefore(s, n); };
-	            s.type = "text/javascript";
-	            s.async = true;
-	            s.src = "https://mc.yandex.ru/metrika/watch.js";
-
-	            if (w.opera == "[object Opera]") {
-	                d.addEventListener("DOMContentLoaded", f, false);
-	            } else { f(); }
-	        })(document, window, "yandex_metrika_callbacks");
-	    </script>
-	    <noscript><div><img src="https://mc.yandex.ru/watch/47649751" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-	    <!-- /Yandex.Metrika counter -->
 	    <div class="navbar">
             <div class="navbar-inner">
                 <div class="container">
@@ -295,7 +267,7 @@
                     <div class="title">
                         <h1>Отзывы клиентов о нас в ВКонтакте</h1>
                         <p>Данные отзывы оставлены в нашей группе ВКонтакте</p>
-                        <a href="https://vk.com/topic-173520600_39809747" target="_blank">Отзовы в ВКонтакте</a> | <a href="https://www.instagram.com/yrspace_vlg/" target="_blank">Instagram</a>
+                        <a href="https://vk.com/topic-173520600_39809747" target="_blank">Отзывы в ВКонтакте</a> | <a href="https://www.instagram.com/yrspace_vlg/" target="_blank">Instagram</a>
                     </div>
                     <div class="row">
                         <div class="span4">
