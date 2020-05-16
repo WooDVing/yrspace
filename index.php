@@ -32,14 +32,6 @@
         <link rel="icon" type="image/png" sizes="16x16" href="images/ico/favicon-16x16.png">
         <link rel="manifest" href="images/ico/manifest.json">
         <link rel="mask-icon" href="images/ico/safari-pinned-tab.svg" color="#5bbad5">
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112403018-2"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-		gtag('config', 'UA-112403018-2');
-		</script>
     </head>
     <body>
 	    <div class="navbar">
@@ -83,9 +75,6 @@
                         <h2 class="fittext2">Добро пожаловать</h2>
                         <h4>в Киберспортивный клуб!</h4>
                         <p>У нас вы сможете окунуться в мир Киберспорта.<br>Почувствовать себя профессиональным игроком.<br>Собрать свою команду и принять участие в соревнованиях.</p>
-                        <div id="rent-form" class="button">
-                            <div class="button_center">Арендовать</div>
-                        </div>
                         <div class="da-img">
                             <img src="images/slider/Slider01.png" width="320" alt="">
                         </div>
@@ -392,6 +381,48 @@
             <div class="section secondary-section">
                 <div class="container">
                     <div class="span9 center contact-info">
+                    <footer id="contacts">
+	<div class="content">
+		<div class="form">
+				<header>Бронирование</header><br>
+				<form class="feedback" action="/" method="POST">
+					<div class="row">
+						<div class="field"><input type="text" placeholder="ФИО" name="name"></div>
+						<div class="field"><input type="tel" placeholder="+7 (___) __-__-__" name="phone"></div>
+					</div>
+					<div class="row">
+						<div class="field"><input type="email" name="email" placeholder="Email"></div>
+						<div class="field"><input type="text" name="message" placeholder="Текст сообщения"></div>
+                    </div>
+                    <div class="row">
+                    <div class="field">
+                        <select id="" class="" name="option">
+                                <option value="title" selected disabled>Выберите место</option>
+                                <option>Standart PC</option>
+                                <option>PRO PC</option>
+                                <option>STREAM ROOM</option>
+                            </select>
+                    </div>
+                    <div class="field">
+                            <select id="rent-option" class="rent-order__input" name="option">
+                                <option value="title" selected disabled>Сколько часов вы хотите</option>
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                                <option>6</option>
+                            </select>
+                    </div>
+					</div>
+					<div class="row marged">
+						<div class="field">
+							<input type="submit" value="Отправить">
+						</div>
+					</div>
+				</form>
+			</div>	</div>
+</footer>
                         <div class="title">
                             <h3>Мы в социальных сетях</h3>
                         </div>
